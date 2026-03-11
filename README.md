@@ -1,2 +1,3 @@
 # VFX_DataWrangling_Python
-Python scripts written to assist with sorting of on set data for VFX
+Python script written to assist with sorting of on set data for VFX
+--> scripts are show specific for file structure and naming conventions
